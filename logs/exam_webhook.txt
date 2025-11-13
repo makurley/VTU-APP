@@ -1,0 +1,4 @@
+{
+    "status": "fail",
+    "message": "Insufficient Account Kindly fund your wallet => \u20a60.00"
+}

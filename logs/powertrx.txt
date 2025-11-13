@@ -1,0 +1,338 @@
+{
+    "code": "failure",
+    "message": "MISSING PARAMETER. Please, submit all required parameters."
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "MeterType": [
+        "\"2\" is not a valid choice."
+    ]
+}{
+    "disco_name": "EKO ELECTRICITY",
+    "request-id": "POWER_OkyTiUiS1OmJduZ",
+    "amount": "500",
+    "charges": 5,
+    "status": "fail",
+    "message": "Transaction  fail EKO ELECTRICITY PREPAID \u20a6500 to 43901383331",
+    "meter_number": "43901383331",
+    "meter_type": "PREPAID",
+    "oldbal": "950",
+    "newbal": 950,
+    "system": "API",
+    "wallet_vending": "wallet"
+}{
+    "code": "failure",
+    "message": "BELOW THE ALLOWED MINIMUM AMOUNT OF NGN1000. Please, enter an amount equal or above the minimum amount."
+}{
+    "code": "success",
+    "message": "Electricity bill successfully paid",
+    "data": {
+        "electricity": "Eko (EKEDC)",
+        "meter_number": "43901383331",
+        "token": "",
+        "units": null,
+        "phone": "08108585216",
+        "amount": "NGN1000",
+        "amount_charged": "NGN997",
+        "order_id": 4489910
+    }
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "disco_name": "EKO ELECTRICITY",
+    "request-id": "POWER_do364hVsCCwOAxG",
+    "amount": "500",
+    "charges": 5,
+    "status": "fail",
+    "message": "Transaction  fail EKO ELECTRICITY PREPAID \u20a6500 to 43901383331",
+    "meter_number": "43901383331",
+    "meter_type": "PREPAID",
+    "oldbal": "950",
+    "newbal": 950,
+    "system": "API",
+    "wallet_vending": "wallet"
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "MeterType": [
+        "\"1\" is not a valid choice."
+    ]
+}{
+    "disco_name": "EKO ELECTRICITY",
+    "request-id": "POWER_MWEh2m04ylqZy91",
+    "amount": "500",
+    "charges": 5,
+    "status": "fail",
+    "message": "Transaction  fail EKO ELECTRICITY PREPAID \u20a6500 to 43901383331",
+    "meter_number": "43901383331",
+    "meter_type": "PREPAID",
+    "oldbal": "950",
+    "newbal": 950,
+    "system": "API",
+    "wallet_vending": "wallet"
+}{
+    "disco_name": "PORT HARCOURT ELECTRICITY",
+    "request-id": "POWER_ym7oWdOy6pJFEVR",
+    "amount": "500",
+    "charges": 5,
+    "transid": "POWER_ym7oWdOy6pJFEVR",
+    "status": "success",
+    "message": "Transaction  successful PORT HARCOURT ELECTRICITY PREPAID \u20a6500 to 62141126714",
+    "meter_number": "62141126714",
+    "meter_type": "PREPAID",
+    "oldbal": "18678",
+    "newbal": 18173,
+    "system": "API",
+    "token": "Token: 13150867916173694124",
+    "wallet_vending": "wallet"
+}{
+    "disco_name": "PORT HARCOURT ELECTRICITY",
+    "request-id": "POWER_DFMNRMGTcZzVMYV",
+    "amount": "500",
+    "charges": 5,
+    "transid": "POWER_DFMNRMGTcZzVMYV",
+    "status": "success",
+    "message": "Transaction  successful PORT HARCOURT ELECTRICITY PREPAID \u20a6500 to 62141126714",
+    "meter_number": "62141126714",
+    "meter_type": "PREPAID",
+    "oldbal": "18173",
+    "newbal": 17668,
+    "system": "API",
+    "token": "Token: 26604650665581650401",
+    "wallet_vending": "wallet"
+}{
+    "disco_name": "PORT HARCOURT ELECTRICITY",
+    "request-id": "POWER_qh8klFEPq8K1gg8",
+    "amount": "13000",
+    "charges": 130,
+    "transid": "POWER_qh8klFEPq8K1gg8",
+    "status": "success",
+    "message": "Transaction  successful PORT HARCOURT ELECTRICITY PREPAID \u20a613000 to 0171300001467",
+    "meter_number": "0171300001467",
+    "meter_type": "PREPAID",
+    "oldbal": "166437",
+    "newbal": 153307,
+    "system": "API",
+    "token": "Token: 32562087847098501338",
+    "wallet_vending": "wallet"
+}{
+    "id": 62469,
+    "ident": "2024061814552335185675172817782634-d9ca-4c3e-97fc-450919cd1e13",
+    "package": "Enugu Electric",
+    "disco_name": 26,
+    "amount": "20000",
+    "Customer_Phone": "07061438891",
+    "meter_number": "45083604947",
+    "token": "Token : 04710794744156415182",
+    "MeterType": "Prepaid",
+    "paid_amount": "19900.0",
+    "balance_before": "92427.44999999998",
+    "balance_after": "72427.44999999998",
+    "Status": "successful",
+    "create_date": "2024-06-18T14:55:27.517925",
+    "customer_name": "Nwankwo Nenia",
+    "customer_address": "Test Address"
+}{
+    "id": 62506,
+    "ident": "2024061909114730267533556006e4515-d558-41cf-aa31-744db52a5b9f",
+    "package": "Enugu Electric",
+    "disco_name": 26,
+    "amount": "20000",
+    "Customer_Phone": "07061438891",
+    "meter_number": "0202101080473",
+    "token": "Token : 44651988891957061663",
+    "MeterType": "Prepaid",
+    "paid_amount": "19900.0",
+    "balance_before": "62390.94999999998",
+    "balance_after": "42390.94999999998",
+    "Status": "successful",
+    "create_date": "2024-06-19T09:11:50.644103",
+    "customer_name": "Obidike Ifeoma Uzoamaka",
+    "customer_address": "Test Address"
+}{
+    "disco_name": "BENIN ELECTRIC",
+    "request-id": "POWER_jg6XDDxiBgiPrCH",
+    "amount": "1000",
+    "charges": 10,
+    "status": "fail",
+    "message": "Transaction  fail BENIN ELECTRIC PREPAID \u20a61000 to 0159007268943",
+    "meter_number": "0159007268943",
+    "meter_type": "PREPAID",
+    "oldbal": "129617.96",
+    "newbal": 129617.96,
+    "system": "API",
+    "wallet_vending": "wallet"
+}{
+    "disco_name": "BENIN ELECTRIC",
+    "request-id": "POWER_Sysghj2RD44A2Dg",
+    "amount": "1000",
+    "charges": 10,
+    "status": "fail",
+    "message": "Transaction  fail BENIN ELECTRIC PREPAID \u20a61000 to 0159007268943",
+    "meter_number": "0159007268943",
+    "meter_type": "PREPAID",
+    "oldbal": "129617.96",
+    "newbal": 129617.96,
+    "system": "API",
+    "wallet_vending": "wallet"
+}{
+    "disco_name": "BENIN ELECTRIC",
+    "request-id": "POWER_KHzC58KjSBQ00cd",
+    "amount": "1000",
+    "charges": 10,
+    "status": "fail",
+    "message": "Transaction  fail BENIN ELECTRIC PREPAID \u20a61000 to 0159007268943",
+    "meter_number": "0159007268943",
+    "meter_type": "PREPAID",
+    "oldbal": "129617.96",
+    "newbal": 129617.96,
+    "system": "API",
+    "wallet_vending": "wallet"
+}{
+    "disco_name": "BENIN ELECTRIC",
+    "request-id": "POWER_KcgAUpjrBpwBUX9",
+    "amount": "1000",
+    "charges": 10,
+    "status": "fail",
+    "message": "Transaction  fail BENIN ELECTRIC PREPAID \u20a61000 to 0159007268943",
+    "meter_number": "0159007268943",
+    "meter_type": "PREPAID",
+    "oldbal": "129617.96",
+    "newbal": 129617.96,
+    "system": "API",
+    "wallet_vending": "wallet"
+}{
+    "disco_name": "BENIN ELECTRIC",
+    "request-id": "POWER_zH0CDjRJv5u3FR1",
+    "amount": "1000",
+    "charges": 10,
+    "status": "fail",
+    "message": "Transaction  fail BENIN ELECTRIC PREPAID \u20a61000 to 0159007268943",
+    "meter_number": "0159007268943",
+    "meter_type": "PREPAID",
+    "oldbal": "129617.96",
+    "newbal": 129617.96,
+    "system": "API",
+    "wallet_vending": "wallet"
+}{
+    "id": 62759,
+    "ident": "20240624003927480879511668964a59e3-5224-4200-94f1-2a01bfc8a819",
+    "package": "Kano Electric",
+    "disco_name": 23,
+    "amount": "1300",
+    "Customer_Phone": "08028264472",
+    "meter_number": "30530179339",
+    "token": "",
+    "MeterType": "Prepaid",
+    "paid_amount": "1293.5",
+    "balance_before": "77774.95999999999",
+    "balance_after": "76474.95999999999",
+    "Status": "failed",
+    "create_date": "2024-06-24T00:39:28.160596",
+    "customer_name": "I.k. Madabuchi",
+    "customer_address": "Test Address"
+}{
+    "status": "error",
+    "message": "Invalid Biller or item selected",
+    "data": null
+}{
+    "status": "success",
+    "message": "Bill payment successful",
+    "data": {
+        "phone_number": "43901383331",
+        "amount": 1000,
+        "network": "EKEDC PREPAID TOPUP",
+        "code": "200",
+        "tx_ref": "CF-FLYAPI-20240706025537717181350",
+        "reference": "BP17202777392897629935",
+        "batch_reference": null,
+        "recharge_token": "16185552129755800957",
+        "fee": 100
+    }
+}{
+    "status": "error",
+    "message": "Amount must not be less than 1000.0",
+    "data": null
+}{
+    "status": "success",
+    "message": "Bill payment successful",
+    "data": {
+        "phone_number": "43901383331",
+        "amount": 1000,
+        "network": "EKEDC PREPAID TOPUP",
+        "code": "200",
+        "tx_ref": "CF-FLYAPI-20240706031645591900081",
+        "reference": "BP17202790069157164251",
+        "batch_reference": null,
+        "recharge_token": "45092258700912893539",
+        "fee": 100
+    }
+}{
+    "id": 67029,
+    "ident": "2024081016055310835634196664d8d36d-5245-499e-9ea2-f4b25d7a0b3f",
+    "package": "Eko Electric",
+    "disco_name": 20,
+    "amount": "1500",
+    "Customer_Phone": "07068380768",
+    "meter_number": "43901383331",
+    "token": "Token : 06785562003765334394 BSST TOKEN : 61036385059785171980",
+    "MeterType": "Prepaid",
+    "paid_amount": "1492.5",
+    "balance_before": "204156.69499999998",
+    "balance_after": "202656.69499999998",
+    "Status": "successful",
+    "create_date": "2024-08-10T16:05:56.336463",
+    "customer_name": "ALHAJI AZEEZ OLAJIDE",
+    "customer_address": "Test Address"
+}{
+    "disco_name": "EKO ELECTRICITY",
+    "request-id": "POWER_gVQEiGjlBshNBpk",
+    "amount": "1300",
+    "charges": 13,
+    "transid": "POWER_gVQEiGjlBshNBpk",
+    "status": "success",
+    "message": "Transaction  successful EKO ELECTRICITY PREPAID \u20a61300 to 43901383331",
+    "meter_number": "43901383331",
+    "meter_type": "PREPAID",
+    "oldbal": "114882.36",
+    "newbal": 113569.36,
+    "system": "API",
+    "token": "Token : 17492350634059474708",
+    "wallet_vending": "wallet"
+}{
+    "status": "fail",
+    "message": "Insufficient Account Kindly Fund Your Wallet => \u20a691.76"
+}{
+    "status": "fail",
+    "message": "Insufficient Account Kindly Fund Your Wallet => \u20a691.76"
+}

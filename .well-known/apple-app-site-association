@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9LJ5AMCCJX.app.utilitywarehouse.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "status": "pending",
+    "message": "Bill payment is Pending",
+    "data": {
+        "phone_number": "08032663626",
+        "amount": 50,
+        "network": null,
+        "code": "300",
+        "tx_ref": "CF-FLYAPI-20240704083747860420317",
+        "reference": "BP17200822688758552118",
+        "batch_reference": null,
+        "recharge_token": null,
+        "fee": null
+    }
+}
