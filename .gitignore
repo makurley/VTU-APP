@@ -14,3 +14,10 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+
+
+# Runtime and sensitive data
+/database.sql
+/error_log
+/logs/*.txt
+/logs/*.log
