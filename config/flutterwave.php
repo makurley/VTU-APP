@@ -17,7 +17,7 @@ return [
      */
     'publicKey' => env('FLW_PUBLIC_KEY'),
 
-    /**
+    'secretHash' => env('FLW_SECRET_HASH'),
      * Secret Key: Your Rave secretKey. Sign up on https://dashboard.flutterwave.com/ to get one from your settings page
      *
      */
